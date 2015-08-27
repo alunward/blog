@@ -1,0 +1,11 @@
+# Site settings
+title: Test cloudcannon site
+email: alun.ward@gmail.com
+description: > # Testing out jekyll, Github pages and cloudcannon
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: lunaEye
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
